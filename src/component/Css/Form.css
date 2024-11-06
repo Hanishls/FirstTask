@@ -1,0 +1,32 @@
+.password{
+    position:relative
+
+}
+.password img{
+    width:25px;
+    position:absolute;
+    top:0;
+    margin-left:920px;
+    margin-top:5px
+}
+.passwords{
+    position:relative
+}
+.passwords img{
+    width:25px;
+    position:absolute;
+    top:0;
+    right:0;
+    margin-right: 8px;
+}
+.passwordLogin{
+    position:relative
+
+}
+.passwordLogin img{
+    width:40px;
+    position:absolute;
+    top:0;
+    margin-left:35px;
+    margin-top:4px
+}
